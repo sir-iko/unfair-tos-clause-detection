@@ -50,7 +50,7 @@ unfair-tos-clause-detection/
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/[your-username]/unfair-tos-clause-detection.git
+   git clone https://github.com/[sir-iko]/unfair-tos-clause-detection.git
    cd unfair-tos-clause-detection
 ```
 2. Install dependencies:
